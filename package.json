@@ -1,17 +1,16 @@
 {
-  "name": "helloworld",
+  "name": "mongo_1_3",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-	
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cfenv": "^1.0.4",
     "express": "^4.14.0",
-    "mongodb": "^2.2.12"
+    "mongodb": "^3.0.4"
   }
 }
