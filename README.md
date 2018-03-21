@@ -1,17 +1,17 @@
-# December 2017 monogodb Introduction Demos
+# March 2018 MonogoDB Introduction Demos
 
 3 separate server files to test,
 
 2 and 3 need a mongodb online account with username and password, set in the relevant server file.
 
-see mongodb_examples.pdf
+see 101 mongodb_examples.pdf
 
 
-server.js is one of the following, which may only make sense on localhost due to the server outputs  via command window:
+server.js is one of the following, which may only make sense on localhost due to the server outputs via command window:
 
-1. server_mlab_01_ro.js
-2. server_mlab_02_write.js
-3. server_mlab_03_students.js
+1. server1.js
+2. server2.js
+3. server3.js
 
 
 
